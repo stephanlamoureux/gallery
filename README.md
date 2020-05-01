@@ -1,2 +1,3 @@
-# gallery
-Basic Image Gallery
+#Basic Image Gallery
+
+https://slamoureux.github.io/gallery/
